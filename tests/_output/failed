@@ -1,0 +1,2 @@
+tests\acceptance\LoginGithubCest.php:createRepo
+tests\acceptance\LoginGithubCest.php:checkClone
